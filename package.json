@@ -1,0 +1,24 @@
+{
+  "name": "POC_PagoNxt_CucumberStudio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compassoLeonardo/POC_PagoNxt_CucumberStudio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compassoLeonardo/POC_PagoNxt_CucumberStudio/issues"
+  },
+  "homepage": "https://github.com/compassoLeonardo/POC_PagoNxt_CucumberStudio#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
