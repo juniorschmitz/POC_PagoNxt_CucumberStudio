@@ -3,7 +3,7 @@ Feature: Eating Cucumbers
   I want to eat cucumbers
   To keep me hydrated
   
-  Scenarios: Eating Cucumbers With Forks
+  Scenario: Eating Cucumbers With Forks
       Given that has a fork in my hand
       And has a sliced cucumber in my plate 
       When grab the cucumber with the fork
