@@ -8,3 +8,4 @@ Feature: Integration with TestComplete
             | product | product_view               | price |
             | shirt   | Faded Shor Sleeve T-shirts | 16.51 |
             | dress   | printed Summer Dress       | 28.98 |
+            | pants   | No results were found for your search "<product>" | null | 
