@@ -6,10 +6,14 @@ pipeline {
   }
   stages{
     stage('Build') {
-      sh 'npm i'
+      steps {
+        sh 'npm i'
+      }
     }
     stage('Run Forrest') {
-      sh 'npm run cy:open'
+      steps {
+        sh 'npm run cy:open'
+      }
     }
   }
 }
